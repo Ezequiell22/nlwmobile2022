@@ -1,0 +1,2 @@
+#rodar
+npx expo start
